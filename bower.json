@@ -1,0 +1,21 @@
+{
+  "name": "Asafst Site",
+  "version": "0.0.0",
+  "authors": [
+    "Asaf Strassberg <asafstrassberg@gmail.com>"
+  ],
+  "description": "My Asafst homepage",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "~0.95.2"
+  }
+}
